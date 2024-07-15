@@ -1,0 +1,21 @@
+Task 1: learing linux command
+
+_______ls_to view the files in repositor
+_______git clone _command to clone the repostory
+_______mkdir_ command to create file or dic
+______vi extesion.txt _to insert the data
+______insert key__ to insert the data
+______esc key___to close the promt
+______:wq__to save the data and exit
+______git status__to check the status of the file (red as error)
+______git add __ to add the data to the repository
+______git commit -m__to commit the data
+______git push__ to push data into the repository
+______pwd__print working directory location
+______rm__ command to delete files or dic
+______nano___command to create the file
+______touch___command to create file or exsting file
+______clear___ clear the screen of command promt
+______tar  -cvf -xcf___command to compress or exterct file
+_____comm __ command to commpare two files
+_____ps___display active processes                      
